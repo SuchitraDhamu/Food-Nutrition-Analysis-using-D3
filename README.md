@@ -10,7 +10,7 @@ I used easyPHP to run the code on local server. For this, I followed the below s
 6. This will open the file on the browser and show all the interactions.
 
 
-////	Other things to note:
-//	I wrote the D3 code adhering to version 7 and used Chrome browser to generate my visualizations.
-//  CSV data used for this project was taken from Kaggle - https://www.kaggle.com/code/niharika41298/food-nutrition-analysis-eda/data 
+////	Other things to note:\
+//	I wrote the D3 code adhering to version 7 and used Chrome browser to generate my visualizations.\
+//  CSV data used for this project was taken from Kaggle - https://www.kaggle.com/code/niharika41298/food-nutrition-analysis-eda/data \
 //  Made a custom Json data from the csv data to create the hierarchical Graph.
